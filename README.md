@@ -3,7 +3,10 @@
 And this is my little space with certain projects on it
 
 
-[![trophy](https://github-profile-trophy.vercel.app/Howaitoniksu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Howaitoniksu&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
 
 I love make some cool stuff like whole Windows apps, or API, even some mobile apps.
 
