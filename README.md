@@ -3,7 +3,7 @@
 And this is my little space with certain projects on it
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Howaitoniksu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Howaitoniksu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 I love make some cool stuff like whole Windows apps, or API, even some mobile apps.
 
