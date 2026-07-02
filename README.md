@@ -29,7 +29,7 @@ Some skills I have:
 
  <div> <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />  SQL: MySQL, PostgreSQL </div>
 
-
+ ⚡ Fun fact:  Im also some kind of digital artist. Maybe one day here will be link to my art page.
 
 <!--
 **Howaitoniksu/Howaitoniksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ⚡ Fun fact:  Im also some kind of digital artist. Maybe one day here will be link to my art page.
