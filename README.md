@@ -12,18 +12,20 @@ I love make some cool stuff like whole Windows apps, or API, even some mobile ap
 
 Basicaly I specialize on C# and similar programming languages, also got practice with Kotlin and love JavaScript
 
-Here some contacts of me:
-
 
 
 Some skills I have:
 <div> <img src="https://skillicons.dev/icons?i=androidstudio" height="20" alt="androidstudio logo"  />  Android: Jetpack Compose, Kotlin, MVVM, Retrofit, Ktor, Serialization, Supabase </div>
 
-<div> <img src="https://skillicons.dev/icons?i=kotlin" height="20" alt="kotlin logo"  />  Kotlin: Corutines, Android, Native <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  /> </div>
+
+<div> <img src="https://skillicons.dev/icons?i=kotlin" height="20" alt="kotlin logo"  />  Kotlin: Corutines, Android, Native </div>
+
 
 <div> <img src="https://skillicons.dev/icons?i=cs" height="20" alt="csharp logo"  />  C#: Avalonia, SOLID, ASP.NET, Entity Framework, Moq, xUnit, Identity, Swagger   </div>
 
+
 <div> <img src="https://skillicons.dev/icons?i=c" height="20" alt="c logo"  />  C: Strings, Structures, Files, Windows API, Linux, Processes, Threads, Clipboard, Windows Hooks, Registry  </div>
+
 
  <div> <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />  SQL: MySQL, PostgreSQL </div>
 
@@ -43,3 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ Fun fact:  Im also some kind of digital artist. Maybe one day here will be link to my art page.
