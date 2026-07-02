@@ -17,11 +17,17 @@ Here some contacts of me:
 
 
 Some skills I have:
-Android: Jetpack Compose, Kotlin, MVVM, Retrofit, Ktor, Serialization, Supabase
-Kotlin: Corutines, Android, Native
-C#: Avalonia, SOLID, ASP.NET, Entity Framework, Moq, xUnit, Identity, Swagger
-C: Strings, Structures, Files, Windows API, Linux, Processes, Threads, Clipboard, Windows Hooks, Registry
-SQL: MySQL, PostgreSQL
+Android: Jetpack Compose, Kotlin, MVVM, Retrofit, Ktor, Serialization, Supabase <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+
+Kotlin: Corutines, Android, Native <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+
+C#: Avalonia, SOLID, ASP.NET, Entity Framework, Moq, xUnit, Identity, Swagger   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+
+C: Strings, Structures, Files, Windows API, Linux, Processes, Threads, Clipboard, Windows Hooks, Registry  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+
+SQL: MySQL, PostgreSQL <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+
+
 
 <!--
 **Howaitoniksu/Howaitoniksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
