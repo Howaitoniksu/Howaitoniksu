@@ -17,15 +17,15 @@ Here some contacts of me:
 
 
 Some skills I have:
-Android: Jetpack Compose, Kotlin, MVVM, Retrofit, Ktor, Serialization, Supabase <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+<div> <img src="https://skillicons.dev/icons?i=androidstudio" height="20" alt="androidstudio logo"  />  Android: Jetpack Compose, Kotlin, MVVM, Retrofit, Ktor, Serialization, Supabase </div>
 
-Kotlin: Corutines, Android, Native <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+<div> <img src="https://skillicons.dev/icons?i=kotlin" height="20" alt="kotlin logo"  />  Kotlin: Corutines, Android, Native <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  /> </div>
 
-C#: Avalonia, SOLID, ASP.NET, Entity Framework, Moq, xUnit, Identity, Swagger   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+<div> <img src="https://skillicons.dev/icons?i=cs" height="20" alt="csharp logo"  />  C#: Avalonia, SOLID, ASP.NET, Entity Framework, Moq, xUnit, Identity, Swagger   </div>
 
-C: Strings, Structures, Files, Windows API, Linux, Processes, Threads, Clipboard, Windows Hooks, Registry  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+<div> <img src="https://skillicons.dev/icons?i=c" height="20" alt="c logo"  />  C: Strings, Structures, Files, Windows API, Linux, Processes, Threads, Clipboard, Windows Hooks, Registry  </div>
 
-SQL: MySQL, PostgreSQL <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+ <div> <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />  SQL: MySQL, PostgreSQL </div>
 
 
 
